@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, sou Felipe Mesquita
 
-<!--
-**Felipe-MBarros/Felipe-MBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação com interesse em desenvolvimento web. Tenho contato com tecnologias de desenvolvimento por meio das disciplinas e dos projetos da faculdade, e sigo ampliando meus conhecimentos na área por meio de cursos livres, bootcamps e projetos acadêmicos.
 
-Here are some ideas to get you started:
+## Tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Java
+- Figma
+
+## Projeto
+
+### [Cinewave](https://github.com/punkaro/cinewave)
+
+Esse é um dos meus projetos desenvolvido em equipe para a disciplina de Desenvolvimento Web da faculdade. Atuei como colaborador no projeto.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/felipe-mesquita-658a96289/)
+- [E-mail](mailto:felipembarros16@gmail.com)
